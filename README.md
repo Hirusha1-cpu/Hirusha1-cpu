@@ -25,6 +25,12 @@ I'm hirusha<br>I'm working at aahaas<br>I'm expertise in fullstack, blockchain, 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hirusha1-cpu&icon=0&color=3)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hirusha1-cpu/Hirusha1-cpu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hirusha1-cpu/Hirusha1-cpu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Hirusha1-cpu/Hirusha1-cpu/output/github-snake.svg" />
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Hirusha1-cpu/Hirusha1-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
