@@ -1,7 +1,7 @@
 ## Hi there I'm Hirusha Fernando👋
 # 💫 About Me:
 I'm hirusha<br>I'm working at aahaas<br>I'm expertise in fullstack, blockchain, devops engineering works <br>
-[My Portfolio](https://new-portfolio-plum-six.vercel.app/) 
+[My Portfolio](https://hirushafernando.dev/) 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hirusha.fernando.1656) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hirusha._.fdo?igsh=MTE5bWQ2cGRoM3JtNg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hirusha-fernando-15020b1ab) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/3aWDReh0H) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nightvine413) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hirushafernando121@gmail.com) 
